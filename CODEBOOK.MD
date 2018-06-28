@@ -43,7 +43,7 @@ The activities id's and descriptive names were also input in the existing data.
 
 The sets were then colunm binded into one set known as threesets. 
 
-The average of the 30 participants carrying out the 6 activities was aggregated to create the final "tidy_data" set.
+The  tidy data set with the average of each variable for each activity and each subject for the 30 participants carrying out the 6 activities was aggregated to create the final "tidy_data" set.
 
 
 

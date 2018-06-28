@@ -109,7 +109,7 @@ names(xset) <- gsub("\\(|\\)", "", (features[extractm_sd, 2]))
 > names(yset) <- "activity_descrip"
 
 
-1.	## 4. Appropriately labels the data set with descriptive variable names.
+## 4. Appropriately labels the data set with descriptive variable names.
 > names(yset) <- "activity_descrip"
 > names(xset)
  [1] "tBodyAcc-mean-X"           "tBodyAcc-mean-Y"           "tBodyAcc-mean-Z"          
